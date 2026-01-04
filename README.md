@@ -36,4 +36,4 @@ Logging
 
 All MAC changes are logged in mac_address_change.log with timestamp:
 
-[04-01-2026 21:50:12] old mac-address 8a:70:9e:23:e8:aa new address 2a:d7:9e:f3:da:b9
+[04-01-2026 22:18:45] Interface: wlan0 | Old: 84:4b:4d:dd:3f:07 | New: 00:00:00:00:00:11
