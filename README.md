@@ -1,7 +1,7 @@
 # mac-address-changer
 # MAC Address Changer | v2.0
 
-![Banner](https://raw.githubusercontent.com/UZinfosec404/mac-address-changer/image.png)
+![Banner](https://raw.githubusercontent.com/UZinfosec404/mac-address-changer/main/banner.png)
 
 ## Overview
 A simple Python tool to change MAC addresses on Linux systems.  
