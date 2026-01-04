@@ -32,6 +32,7 @@ sudo python3 mac_changer.py -i wlan0 -r
 
 # Change MAC address manually
 sudo python3 mac_changer.py -i eth0 -m 00:11:22:33:44:55
+```
 Logging
 
 All MAC changes are logged in mac_address_change.log with timestamp:
